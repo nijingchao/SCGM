@@ -1,4 +1,4 @@
-# Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings
+# Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings (ICLR 2022 Spotlight)
 
 This is the code for the paper "Superclass-Conditional Gaussian Mixture Model for Learning Fine-Grained Embeddings" in ICLR 2022 ([pdf](https://nijingchao.github.io/paper/iclr22_scgm.pdf)). This code provides a demo on BREEDS dataset, and it can be adapted to other datasets including CIFAR-100 and tieredImageNet.
 
